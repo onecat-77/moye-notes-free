@@ -4,6 +4,24 @@ Handwrite and highlight on PDFs, then export annotated copies. Create handwritte
 
 [中文介绍](#中文介绍)
 
+### Discover Moye Notes Pro
+
+Moye Free offers essential handwriting and PDF annotation. **Moye Pro goes further, connecting handwritten notes, PDF and Markdown annotations, and knowledge management inside Obsidian.**
+
+- **Markdown Handwritten Annotation:** Write and highlight directly on Markdown notes, collect excerpts, jump back to source passages, and export annotated notes as PDF.
+- **Advanced PDF Annotation:** Collect and categorize annotations, navigate back to original passages, extend writing space, and use professional annotation tools.
+- **Professional Handwriting:** Pressure-sensitive fountain and ballpoint pens with refined writing controls.
+- **Handwriting OCR & Beautification:** Recognize handwriting, convert it into editable text, and improve handwritten note presentation.
+- **Creative Notebooks:** Sticky notes, decorative tapes, stickers, shapes, text boxes, image editing, rich paper templates, and custom covers.
+- **AI Q&A:** Ask questions about selected text or regions of your notes for explanations, translations, and summaries.
+- **Obsidian Integration:** Combine handwritten notebooks with embedded Markdown content and connected excerpts.
+
+Moye Pro is a separate paid edition. Free remains fully usable without purchasing Pro.
+
+Some Pro features require a resource download or a configured AI service. Before switching to Pro, disable Free in the same vault.
+
+For demos, purchase information, and Chinese-language support, contact [OneCat on Xiaohongshu](https://xhslink.cn/o/3mXd5G6AAdB) or [onecat77work@gmail.com](mailto:onecat77work@gmail.com).
+
 ## PDF annotation
 
 - Write and highlight with the ballpoint pen and highlighter. Use the eraser, ruler, or image insertion as needed.
@@ -30,12 +48,6 @@ Notebooks, PDF annotations, and their attached images are stored in your vault. 
 
 Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering, search, and export work offline. You can use the system file picker to insert an image from outside your vault. Support links open your browser or email app when you select them. The **Unlock Full Version** settings page contains information about Moye Notes Pro.
 
-## Optional paid edition
-
-Moye Notes Pro is an optional, separately installed paid edition. It adds pressure-sensitive pens, advanced PDF annotation and excerpt collection, handwriting recognition and cleanup, and more notebook tools. Some Pro features require a resource download or a configured AI service.
-
-You can keep using Free without buying Pro. Before switching to Pro, disable Free in the same vault.
-
 ## Source, licensing, and support
 
 Moye Notes is proprietary software. This repository contains the Community listing materials and official Free release files. The Free build source is maintained in a separate private repository for Obsidian's official source review and build verification.
@@ -55,4 +67,20 @@ Please omit private notes, API keys, and license keys from public issue reports.
 - **PDF 批注**可手写、高亮和插图，支持目录、缩略图、文字搜索与选择、记住上次阅读页，以及导出带批注的 PDF 副本。批注单独保存，原 PDF 保持原样。
 - **手写笔记**提供基础圆珠笔、停笔成形、高亮笔、橡皮和尺子，支持空白、方格和点阵纸张，以及单页、双页和纵向浏览。笔记库支持搜索、收藏，笔记可导出为 PDF。
 - **文件与隐私**方面，笔记和 PDF 批注保存在你的库中，自动恢复备份留在当前设备。书写、阅读和导出可离线使用。
-- **墨页 Pro**为另行安装的可选付费版，提供自研压感笔、更多 PDF 批注和摘录工具、手写识别、字迹美化及更多手账工具。购买咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
+
+### 解锁完整墨页 Pro
+
+免费版提供基础手写笔记与 PDF 批注，而 **墨页 Pro 将专业书写、PDF 与 Markdown 批注、摘录收集和知识整理融合在 Obsidian 中。**
+
+- **Markdown 原文手写批注：** 直接在现有 Markdown 笔记上手写、高亮、摘录文字、跳回原文位置，并导出带批注的 PDF。
+- **PDF 深度批注：** 文字摘录、批注分类管理、原文回跳、切换批注显示，对照查看原文、扩页及更多专业批注工具。
+- **专业书写：** 墨页自研压感钢笔、圆珠笔和丰富的书写参数。
+- **手写识别与字迹美化：** OCR 识别手写文字、转换为可编辑文本，并提供字迹美化能力。
+- **创意手账：** 便利贴、胶带笔、贴纸、图形、文本框、图片编辑、丰富纸张模板和自定义封面。
+- **AI 智能问答：** 选中文字或框选内容，让 AI 帮助解释、翻译与总结。
+- **知识融合：** Markdown 内容嵌入、批注摘录收集，以及从摘录跳转回原始资料。
+- **墨词联动：** 另行安装兼容的墨词 InkLex Pro 后，可扩展 PDF 阅读与词汇学习体验。
+
+**Pro 是独立付费版本，Free 可以永久免费使用。**
+
+购买咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
