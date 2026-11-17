@@ -1,7 +1,7 @@
 {
   "id": "yinyue-moye",
   "name": "Moye Notes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "1.15.1",
   "description": "Handwrite and highlight on PDFs, search their text, and export annotated copies. Create handwritten notebooks in your vault.",
   "author": "OneCat",
