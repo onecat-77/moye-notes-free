@@ -34,6 +34,8 @@ Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering,
 
 Moye Notes Pro is an optional, separately installed paid edition. It adds pressure-sensitive pens, advanced PDF annotation and excerpt collection, handwriting recognition and cleanup, and more notebook tools. Some Pro features require a resource download or a configured AI service.
 
+With Moye Notes Pro 0.4.6, you can handwrite and highlight directly on existing Markdown notes, collect excerpts, jump back to the source passage, and export annotated Markdown as a PDF.
+
 You can keep using Free without buying Pro. Before switching to Pro, disable Free in the same vault.
 
 ## Source, licensing, and support
@@ -55,4 +57,5 @@ Please omit private notes, API keys, and license keys from public issue reports.
 - **PDF 批注**可手写、高亮和插图，支持目录、缩略图、文字搜索与选择、记住上次阅读页，以及导出带批注的 PDF 副本。批注单独保存，原 PDF 保持原样。
 - **手写笔记**提供基础圆珠笔、停笔成形、高亮笔、橡皮和尺子，支持空白、方格和点阵纸张，以及单页、双页和纵向浏览。笔记库支持搜索、收藏，笔记可导出为 PDF。
 - **文件与隐私**方面，笔记和 PDF 批注保存在你的库中，自动恢复备份留在当前设备。书写、阅读和导出可离线使用。
+- **Markdown 原文手写批注**随墨页 Pro 0.4.6 提供。可以直接在原有 Markdown 笔记上手写、高亮，从摘录跳回原文位置，并将带批注的 Markdown 导出为 PDF。
 - **墨页 Pro**为另行安装的可选付费版，提供自研压感笔、更多 PDF 批注和摘录工具、手写识别、字迹美化及更多手账工具。购买咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
