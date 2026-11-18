@@ -46,7 +46,7 @@ Requires Obsidian 1.15.1 or later. PDF rendering on iPhone and iPad requires iOS
 
 Notebooks, PDF annotations, and their attached images are stored in your vault. Keep the original PDF, its companion annotation file, and any attached images together when backing up or moving a PDF. Automatic recovery backups stay in Obsidian's local storage on the current device.
 
-Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering, search, and export work offline. You can use the system file picker to insert an image from outside your vault. Support links open your browser or email app when you select them. The **Unlock Full Version** settings page contains information about Moye Notes Pro.
+Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering, search, and export work offline. You can use the system file picker to insert an image from outside your vault. Support links open your browser or email app when you select them. In **Upgrade to Pro**, choose **Pay with PayPal** to open PayPal’s checkout in your browser.
 
 ## Source, licensing, and support
 
@@ -83,4 +83,4 @@ Please omit private notes, API keys, and license keys from public issue reports.
 
 **Pro 是独立付费版本，Free 可以永久免费使用。**
 
-购买咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
+在设置的「解锁完整版」中选择「使用 PayPal 付款」，即可在浏览器中购买 Pro。订单咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
