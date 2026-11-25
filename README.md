@@ -20,7 +20,7 @@ Moye Pro is a separate paid edition. Free remains fully usable without purchasin
 
 Some Pro features require a resource download or a configured AI service. Before switching to Pro, disable Free in the same vault.
 
-For demos, purchase information, and Chinese-language support, contact [OneCat on Xiaohongshu](https://xhslink.cn/o/3mXd5G6AAdB) or [onecat77work@gmail.com](mailto:onecat77work@gmail.com).
+[Visit the official Moye Notes Pro website](https://hionecat.com/en/moye/) for features, demos, and pricing.
 
 ## PDF annotation
 
@@ -46,7 +46,7 @@ Requires Obsidian 1.15.1 or later. PDF rendering on iPhone and iPad requires iOS
 
 Notebooks, PDF annotations, and their attached images are stored in your vault. Keep the original PDF, its companion annotation file, and any attached images together when backing up or moving a PDF. Automatic recovery backups stay in Obsidian's local storage on the current device.
 
-Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering, search, and export work offline. You can use the system file picker to insert an image from outside your vault. Support links open your browser or email app when you select them. In **Upgrade to Pro**, choose **Pay with PayPal** to open PayPal’s checkout in your browser.
+Moye Notes Free has no telemetry or account requirement. Writing, PDF rendering, search, and export work offline. You can use the system file picker to insert an image from outside your vault. Support links open your browser or email app when you select them.
 
 ## Source, licensing, and support
 
@@ -55,7 +55,7 @@ Moye Notes is proprietary software. This repository contains the Community listi
 See the [Moye Notes Free license](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md).
 
 - Bug reports and feature requests. [GitHub Issues](https://github.com/onecat-77/moye-notes-free/issues)
-- Email and purchase questions. [onecat77work@gmail.com](mailto:onecat77work@gmail.com)
+- Email support. [onecat77work@gmail.com](mailto:onecat77work@gmail.com)
 - Demos and Chinese-language support. [OneCat on Xiaohongshu](https://xhslink.cn/o/3mXd5G6AAdB)
 
 Please omit private notes, API keys, and license keys from public issue reports.
@@ -68,7 +68,7 @@ Please omit private notes, API keys, and license keys from public issue reports.
 - **手写笔记**提供基础圆珠笔、停笔成形、高亮笔、橡皮和尺子，支持空白、方格和点阵纸张，以及单页、双页和纵向浏览。笔记库支持搜索、收藏，笔记可导出为 PDF。
 - **文件与隐私**方面，笔记和 PDF 批注保存在你的库中，自动恢复备份留在当前设备。书写、阅读和导出可离线使用。
 
-### 解锁完整墨页 Pro
+### 了解墨页 Pro
 
 免费版提供基础手写笔记与 PDF 批注，而 **墨页 Pro 将专业书写、PDF 与 Markdown 批注、摘录收集和知识整理融合在 Obsidian 中。**
 
@@ -83,4 +83,4 @@ Please omit private notes, API keys, and license keys from public issue reports.
 
 **Pro 是独立付费版本，Free 可以永久免费使用。**
 
-在设置的「解锁完整版」中选择「使用 PayPal 付款」，即可在浏览器中购买 Pro。订单咨询和中文支持请联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
+[前往墨页 Pro 官网](https://hionecat.com/en/moye/)查看功能、演示和价格。如需中文支持，可联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
