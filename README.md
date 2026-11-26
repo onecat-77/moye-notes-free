@@ -4,7 +4,7 @@ Handwrite and highlight on PDFs, then export annotated copies. Create handwritte
 
 [中文介绍](#中文介绍)
 
-### Discover Moye Notes Pro
+### Upgrade to Moye Notes Pro
 
 Moye Free offers essential handwriting and PDF annotation. **Moye Pro goes further, connecting handwritten notes, PDF and Markdown annotations, and knowledge management inside Obsidian.**
 
@@ -20,7 +20,7 @@ Moye Pro is a separate paid edition. Free remains fully usable without purchasin
 
 Some Pro features require a resource download or a configured AI service. Before switching to Pro, disable Free in the same vault.
 
-[Visit the official Moye Notes Pro website](https://hionecat.com/en/moye/) for features, demos, and pricing.
+[Visit the official Moye Notes Pro website](https://hionecat.com/en/moye/) for demos, pricing, and purchase information.
 
 ## PDF annotation
 
@@ -68,7 +68,7 @@ Please omit private notes, API keys, and license keys from public issue reports.
 - **手写笔记**提供基础圆珠笔、停笔成形、高亮笔、橡皮和尺子，支持空白、方格和点阵纸张，以及单页、双页和纵向浏览。笔记库支持搜索、收藏，笔记可导出为 PDF。
 - **文件与隐私**方面，笔记和 PDF 批注保存在你的库中，自动恢复备份留在当前设备。书写、阅读和导出可离线使用。
 
-### 了解墨页 Pro
+### 升级墨页 Pro
 
 免费版提供基础手写笔记与 PDF 批注，而 **墨页 Pro 将专业书写、PDF 与 Markdown 批注、摘录收集和知识整理融合在 Obsidian 中。**
 
@@ -83,4 +83,4 @@ Please omit private notes, API keys, and license keys from public issue reports.
 
 **Pro 是独立付费版本，Free 可以永久免费使用。**
 
-[前往墨页 Pro 官网](https://hionecat.com/en/moye/)查看功能、演示和价格。如需中文支持，可联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
+[前往墨页 Pro 官网](https://hionecat.com/en/moye/)查看演示、价格与购买方式。如需中文支持，可联系一猫七七。 [小红书](https://xhslink.cn/o/3mXd5G6AAdB) · [邮件](mailto:onecat77work@gmail.com)
